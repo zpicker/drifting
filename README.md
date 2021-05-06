@@ -58,7 +58,11 @@ Menu options:
 ## My details
 
 Zachary Picker
+
 zacpicker.com
+
 Insta: [@zac.picker](https://www.instagram.com/zac.picker/)
+
 Twitter: [@zac_sc_picker](https://twitter.com/zac_sc_picker)
+
 Email: zachary.picker@gmail.com
