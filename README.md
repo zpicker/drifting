@@ -45,7 +45,7 @@ Menu options:
   * Continue last effect: at the end, the program keeps playing the final type of effect it was playing at full intensity.
 * 'Effect-type changes:'
   * Automatically: the type of effect changes as soon as it runs out of time. For example, if effect 1 has used up its allotted two minutes, the program stops it and begins effect 2.
-  * On user input: the type of effect only changes when the user uses the 'j' key to advance to the next effect (or 'f' to go back). This is useful if you want to try and time the transitions to changes in music more carefully.
+  * On user input: the type of effect only changes when the user uses the 'j' key to advance to the next effect (or 'f' to go back). This is useful if you want to try and time the transitions to changes in music more carefully. The next effect still runs for its total expected length.
 * Relative time-of-day lengths: choose how long you want each portion of the day to last. These numbers are _relative_, so they don't need to add to the performance time. For example, the default is [1,2,4,2,1]; in this case, the sunset would last for 2/(1+2+4+2+1) = 1/10 of the total time.
 * Relative effect-type lengths: choose how long you want each effect to play for. The numbers are relative again, just as above.
 * Effect-type selection: designate a type of effect to each of the effect periods.
