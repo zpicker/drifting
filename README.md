@@ -13,7 +13,7 @@ Feel free to download it and enjoy it– I recommend putting on some good ambien
 
 I've frozen the program into a .exe file, but it's rather large at the moment, so I'll figure out what to do with that. I've only tested it on my win10 system, but I should be able to make an osx or linux application at some point.
 
-Otherwise, drifting is written in python, so you can just run the code yourself. You'll need the opencv and numpy packages installed:
+Otherwise, drifting is written in python, so you can just run the code yourself. You'll need to put all four python scripts in the same directory and have the opencv and numpy packages installed:
 ```sh
 pip install numpy
 pip install opencv-python
