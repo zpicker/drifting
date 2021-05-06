@@ -25,8 +25,8 @@ I probably won't be able to help you much with troubleshooting if things go wron
 
 The program displays generated cityscapes for a given period of time, with different kind of effects being applied to the image. Here's an explanation of the menu options:
 
-###Mode
-df
+* Mode
+  * Performance
 
 ## Meta
 
