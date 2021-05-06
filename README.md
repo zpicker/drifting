@@ -18,7 +18,7 @@ Otherwise, this is written in python, so you can just run the code yourself. You
 pip install numpy
 pip install opencv-python
 ```
-I probably won't be able to help you much with troubleshooting if things go wrong... you're on your own!
+Run 'drifting.py' and you should be good to go. I probably won't be able to help you much with troubleshooting if things go wrong... you're on your own!
 
 ## Instructions and explanations
 
