@@ -6,53 +6,27 @@
 
 This project is also 50% an excuse for me to get more comfortable both with Github and with creating fully realized programs with Python. It's very much just a passion project and a bit of fun-- I don't intend on managing this and keeping it updated and properly tested.
 
-Feel free to download it and enjoy it-- I recommend putting on some good ambient electronic music, or maybe something psychedelic. If you want to use it for something, just shoot me an email and give me credit (or even, some money, if you're feeling generous!).
+Feel free to download it and enjoy it-- I recommend putting on some good ambient electronic music, or maybe something psychedelic. If you want to use it for something, just shoot me an email and give me credit (or even, some money, if you're feeling generous!). 
 
-![](drifting10.png)
+![](drifting10.PNG)
 
-## Installation
+## Getting it going
 
-OS X & Linux:
+I've frozen the program into a .exe file, but it's rather large at the moment, so I'll figure out what to do with that. I've only tested it on my win10 system, but I should be able to make an osx or linux application at some point.
 
+Otherwise, drifting is written in python, so you can just run the code yourself. You'll need the opencv and numpy packages installed:
 ```sh
-npm install my-crazy-module --save
+pip install numpy
+pip install opencv-python
 ```
+I probably won't be able to help you much with troubleshooting if things go wrong... you're on your own!
 
-Windows:
+## Instructions and explanations
 
-```sh
-edit autoexec.bat
-```
+The program displays generated cityscapes for a given period of time, with different kind of effects being applied to the image. Here's an explanation of the menu options:
 
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+###Mode
+df
 
 ## Meta
 
