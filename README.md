@@ -42,7 +42,7 @@ Menu options:
 * 'At performance end:'
   * Loop performance: at the end of the performance time, the program just starts again
   * Exit: at the end, the program quits
-  * Continue last effect: at the end, the program keeps playing the final effect it was playing at full intensity.
+  * Continue last effect: at the end, the program keeps playing the final type of effect it was playing at full intensity.
 * 'Effect-type changes:'
   * Automatically: the type of effect changes as soon as it runs out of time. For example, if effect 1 has used up its allotted two minutes, the program stops it and begins effect 2.
   * On user input: the type of effect only changes when the user uses the 'j' key to advance to the next effect (or 'f' to go back). This is useful if you want to try and time the transitions to changes in music more carefully.
