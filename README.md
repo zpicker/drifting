@@ -8,7 +8,7 @@ This project is also 50% an excuse for me to get more comfortable both with Gith
 
 Feel free to download it and enjoy it-- I recommend putting on some good ambient electronic music, or maybe something psychedelic. If you want to use it for something, just shoot me an email and give me credit (or even, some money, if you're feeling generous!).
 
-![](drifting.png)
+![](drifting10.png)
 
 ## Installation
 
