@@ -1,12 +1,11 @@
 # Drifting
 > A visual effects program by Zachary Picker
-> zacpicker.com
 
 'Drifting' is a visual effects program, intended for use as an art installation and as visuals to accompany live music. Low-pixel cityscapes are generated in real-time, transitioning through daytime, sunset, night, and sunrise again. As the work progresses, transformative effects are iteratively applied, forming a dreamlike narrative as the city ebbs and flows through periods of calm and periods of intense, abstracted imagery. It was most recently performed as accompaniment to an experimental electronic music set by Ayala for Concrete Dreams at Mothership Studios.
 
-This project is also 50% an excuse for me to get more comfortable both with Github and with creating fully realized programs with Python. It's very much just a passion project and a bit of fun-- I don't intend on managing this and keeping it updated and properly tested.
+This project is also 50% an excuse for me to get more comfortable both with Github and with creating fully realized programs with Python. It's very much just a passion project and a bit of fun– I don't intend on managing this and keeping it updated and properly tested.
 
-Feel free to download it and enjoy it-- I recommend putting on some good ambient electronic music, or maybe something psychedelic. If you want to use it for something, just shoot me an email and give me credit (or even, some money, if you're feeling generous!). 
+Feel free to download it and enjoy it– I recommend putting on some good ambient electronic music, or maybe something psychedelic. If you want to use it for something, just shoot me an email and give me credit (or even, some money, if you're feeling generous!). 
 
 ![](drifting10.PNG)
 
@@ -34,7 +33,7 @@ Controls:
 * esc: quit the program
 * q: quit to a black screen
 
-Here's an explanation of the menu options:
+Menu options:
 
 * Mode
   * Performance: The city scenes cycle through day-night-day over the course of the alloted time. Each effect plays in turn, growing in intensity and changing style. For example, if the time is set to 10 minutes, and effect 1 takes up 1/5 of the total time, that effect will play for two minutes, gradually ramping up intensity until it stops at the 2-minute mark-- then, effect 2 begins, and so on. (This is how 'Drifting' is set up as an installation artwork).
@@ -56,26 +55,6 @@ Here's an explanation of the menu options:
   * All together: all the effects are combined together.
 * Launch to black screen: when launched, the program goes to a black screen until you advance with space/enter/j (time doesn't start in this period). Useful for when you're setting up a projector or something and don't want to display the code/launcher before you begin.
 
-## Meta
+## My details
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+Zachary Picker – zacpicker.com – [@zac.picker](https://www.instagram.com/zac.picker/) –  [@zac_sc_pickerr](https://twitter.com/zac_sc_picker) – zachary.picker@gmail.com
