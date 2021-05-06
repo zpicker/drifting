@@ -26,7 +26,11 @@ I probably won't be able to help you much with troubleshooting if things go wron
 The program displays generated cityscapes for a given period of time, with different kind of effects being applied to the image. Here's an explanation of the menu options:
 
 * Mode
-  * Performance
+  * Performance: The city scenes cycle through day-night-day over the course of the alloted time. Each effect plays in turn, growing in intensity and changing style. For example, if the time is set to 10 minutes, and effect 1 takes up 1/5 of the total time, that effect will play for two minutes, gradually ramping up intensity until it stops at the 2-minute mark-- then, effect 2 begins, and so on. (This is how 'Drifting' is set up as an installation artwork).
+  * Random: effects, their intensities, and times-of-day are chosen randomly.
+* Performance time: amount of time the program runs for
+* 'At performance end:'
+ * Loop performance:
 
 ## Meta
 
