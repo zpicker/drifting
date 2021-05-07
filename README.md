@@ -46,8 +46,8 @@ Menu options:
 * 'Effect-type changes:'
   * Automatically: the type of effect changes as soon as it runs out of time. For example, if effect 1 has used up its allotted two minutes, the program stops it and begins effect 2.
   * On user input: the type of effect only changes when the user uses the 'j' key to advance to the next effect (or 'f' to go back). This is useful if you want to try and time the transitions to changes in music more carefully. The next effect still runs for its total expected length.
-* Relative time-of-day lengths: choose how long you want each portion of the day to last. These numbers are _relative_, so they don't need to add to the performance time. For example, the default is [1,2,4,2,1]; in this case, the sunset would last for 2/(1+2+4+2+1) = 1/10 of the total time.
-* Relative effect-type lengths: choose how long you want each effect to play for. The numbers are relative again, just as above.
+* Relative time-of-day lengths: choose how long you want each portion of the day to last. These numbers are _relative_, so they don't need to add to the performance time. For example, the default is [1,2,4,2,1]; in this case, the sunset would last for 2/(1+2+4+2+1) = 1/10 of the total time. In random mode, these determine the probability of each time period occuring.
+* Relative effect-type lengths: choose how long you want each effect to play for. The numbers are relative again, just as above. In random mode, these determine the probability of each effect.
 * Effect-type selection: designate a type of effect to each of the effect periods.
   * Bars: rectangular portions of the screen are swapped with each other. Progressions: both vertical and horizontal swaps, more bars, more frequent transitions
   * Mirrors: portions of the screen are mirrored. Progressions: vertical, horizontal, and diagonal swaps, and combinations of 2-3 of each to create kaleidoscope effects.
